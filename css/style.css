@@ -4,10 +4,14 @@ h1 {
   font-size: 50px;
 }
 
+html {
+  background-color: silver;
+}
+
 body {
-  background-color: #C0C0C0;
   text-align: left;
 }
+
 p {
   font-color: white;
   font-family: 'Patrick+Hand';

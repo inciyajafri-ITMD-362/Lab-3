@@ -11,7 +11,15 @@ html {
 body {
   text-align: left;
 }
-
+section {
+  margin: 20px auto;
+  align-items: center;
+  box-shadow: 0 4px 8px 0;
+  border-radius: 5px;
+  background-color: darkgrey;
+  width: 80%;
+  padding: 1% 2%;
+}
 p {
   font-color: white;
   font-family: 'Patrick+Hand';

@@ -5,6 +5,11 @@ h1 {
 }
 
 body {
-  background-color: white;
+  background-color: #C0C0C0;
   text-align: left;
 }
+p {
+  font-color: white;
+  font-family: 'Patrick+Hand';
+}
+  

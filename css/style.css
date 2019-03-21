@@ -11,6 +11,7 @@ html {
 body {
   text-align: left;
 }
+
 section {
   align-items: left;
   box-shadow: 0 4px 8px 0;
@@ -18,9 +19,14 @@ section {
   width: 80%;
   padding: 1% 2%;
 }
+
 p {
   font-color: white;
   font-family: 'Patrick+Hand';
+}
+label {
+  font-family: 'Playfair+Display+SC';
+  font-color:black;
 }
 .submit {
   font-family: 'Playfair+Display+SC';

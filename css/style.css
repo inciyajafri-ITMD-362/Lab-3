@@ -6,6 +6,11 @@ h1 {
   margin-bottom: 0.5em;
 }
 
+h4 {
+  font-family: 'Patrick+Hand';
+  font-color: white;
+}
+
 html {
   background-color: white;
 }
@@ -28,6 +33,7 @@ section {
   font-family: 'Playfair+Display+SC';
   font-color: black;
 }
+
 #submit {
   border-style: hidden;
   background-color: black;

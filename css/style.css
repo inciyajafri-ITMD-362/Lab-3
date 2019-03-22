@@ -29,6 +29,7 @@ section {
 #submit {
   border-style: hidden;
   background-color: silver;
+  color: white;
 }
 
 #input-submit {

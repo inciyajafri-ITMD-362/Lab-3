@@ -30,8 +30,11 @@ p {
   font-color: black;
 }
 #submit {
-  font-family: 'Playfair+Display+SC';
-  font-color: grey;
   border-style: hidden;
   background-color: black;
+}
+
+#input-submit {
+  font-family: 'Playfair+Display+SC';
+  font-color: grey;
 }

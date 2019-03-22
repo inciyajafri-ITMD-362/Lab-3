@@ -31,4 +31,6 @@ label {
 }
 #submit {
   font-family: 'Playfair+Display+SC';
+  border-style: hidden;
+  background-color: white;
 }

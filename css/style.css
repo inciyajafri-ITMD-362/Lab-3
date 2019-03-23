@@ -19,7 +19,6 @@ body {
 }
 
 section {
-  align-items: left;
   box-shadow: 0 4px 8px 0;
   background-color: darkgrey;
   width: 90%;
@@ -27,7 +26,7 @@ section {
   margin: 0 1.5%;
 }
 
-}
+
 #input-age-verification {
   font-family: 'Playfair+Display+SC';
 }
